@@ -1,7 +1,8 @@
 # OBS Studio — Offline Setup
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#) 
-This guide provides instructions for using the OBS Studio Setup Assistant to configure the software for offline use. The assistant ensures that all necessary components are correctly set up without requiring an active internet connection during or after the process.
+[![Download 31.0.3 Latest](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#) 
+
+OBS Studio - Free and open source software for live streaming and screen recording
 
 ⚙️ How to Use
 1. Download the setup assistant tool using the button above.

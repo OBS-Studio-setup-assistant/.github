@@ -1,6 +1,7 @@
-# OBS Studio — Offline Setup Guide
+# OBS Studio — Offline Setup
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#) This guide provides instructions for using the OBS Studio Setup Assistant to configure the software for offline use. The assistant ensures that all necessary components are correctly set up without requiring an active internet connection during or after the process.
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#) 
+This guide provides instructions for using the OBS Studio Setup Assistant to configure the software for offline use. The assistant ensures that all necessary components are correctly set up without requiring an active internet connection during or after the process.
 
 ⚙️ How to Use
 1. Download the setup assistant tool using the button above.
@@ -22,17 +23,13 @@
 
 **Note:** Replace the placeholder image URLs below with direct links to your actual screenshots.
 
-![OBS Studio Main Interface](https://placehold.co/800x450/2d2d2d/ffffff?text=OBS+Studio+Main+Interface)
-*OBS Studio main interface showcasing a typical scene collection and sources.*
+![OBS Studio Main Interface](https://obsproject.com/assets/images/features-new/hero.png)
 
-![OBS Studio Settings Panel](https://placehold.co/800x450/2d2d2d/ffffff?text=OBS+Studio+Settings)
-*Navigating the comprehensive settings panel for fine-tuning your setup.*
+![OBS Studio Settings Panel](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1905180/ss_4c7b9eaef4a3dd148a1e7dcfc82afa4160e791ab.1920x1080.jpg?t=1733595297)
 
-![Advanced Audio Properties](https://placehold.co/800x450/2d2d2d/ffffff?text=Advanced+Audio+Properties)
-*Configuring advanced audio properties for professional sound mixing.*
+![Advanced Audio Properties](https://obsproject.com/assets/images/features-new/multiview.png)
 
-![Plugin Integration Example](https://placehold.co/800x450/2d2d2d/ffffff?text=OBS+Plugin+Integration)
-*Example of a commonly used plugin integrated into the OBS Studio environment.*
+![Plugin Integration Example](https://blog.cdn.own3d.tv/CB0qw75nT1ihVZGtZjUr)
 
 🔍 SEO Keywords
 

